@@ -10,6 +10,9 @@ Report/
 *.ko
 *.obj
 *.elf
+*.depend
+*.cbp
+*.layout
 
 # Linker output
 *.ilk
