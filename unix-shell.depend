@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1571245484 source:/home/sherif/Desktop/OS/unix-shell/main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<unistd.h>
-	<sys/wait.h>
-	<signal.h>
-
